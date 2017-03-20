@@ -2,7 +2,7 @@
 
 The [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html) (ADB) is a toolkit included in the Android SDK package, it is not only a powerful tool for Android developers and testers, but also a good toy for Android fans.
 
-This repository renews continually, Pull Requests and Issues are welcomed. If you found [this](https://github.com/mzlogin/awesome-adb) is useful, you can star it and conveniently back here to view when necessary.
+This repository renews continually, Pull Requests and Issues are welcomed. If you found [this](https://github.com/Townwang/awesome-adb-master) is useful, you can star it and conveniently back here to view when necessary.
 
 **Note:** Some commands may depending on the version of Android system or ROM.
 
@@ -2197,3 +2197,5 @@ Thanks friends for theirs selfless sharing and supplement. Names listed in no pa
 * [像高手一样使用ADB命令行（2）](http://cabins.github.io/2016/03/25/UseAdbLikeAPro-2/)
 
 [1]: #ip-address
+
+[Town](https://townwang.com) 
