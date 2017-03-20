@@ -2,7 +2,7 @@
 
 ADB，即 [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html)，它是 Android 开发/测试人员不可替代的强大工具，也是 Android 设备玩家的好玩具。
 
-持续更新中，欢迎提 PR 和 Issue 补充指正，觉得有用的可以将 [此 GitHub 仓库](https://github.com/mzlogin/awesome-adb) Star 收藏备用。
+持续更新中，欢迎提 PR 和 Issue 补充指正，觉得有用的可以将 [此 GitHub 仓库](https://github.com/Townwang/awesome-adb-master) Star 收藏备用。
 
 **注：**有部分命令的支持情况可能与 Android 系统版本及定制 ROM 的实现有关。
 
@@ -2224,3 +2224,6 @@ taskkill /PID 1548
 * [像高手一样使用ADB命令行（2）](http://cabins.github.io/2016/03/25/UseAdbLikeAPro-2/)
 
 [1]: #ip-地址
+
+
+[文科中的技术宅](https://townwang.com) 
